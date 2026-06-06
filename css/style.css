@@ -74,8 +74,8 @@ nav ul a:hover {
   padding: 5rem 2rem 4rem;
 }
 .hero-photo {
-  width: 280px;
-  height: 280px;
+  width: 380px;
+  height: 380px;
   border-radius: 50%;
   object-fit: cover;
   object-position: top center;
